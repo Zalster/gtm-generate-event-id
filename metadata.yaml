@@ -1,0 +1,5 @@
+homepage: "https://zalster.com"
+documentation: "https://github.com/Zalster/gtm-generate-event-id"
+versions:
+  - sha: e77a65d6130c3b4b17e33b360fd85c46131d1e67
+    changeNotes: Release of Tag Template
